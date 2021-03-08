@@ -1,4 +1,6 @@
 # Healthy Habits
+### Bulit by: Ben Steinig, Jacqueline DiMonte, Blake Lieber, and Conner Morgan
+#### For: Tartanhacks 2021, SFhacks (3rd place Overall)
 ## Computer Vision Workout Tracker & Habit Builder
 
 ### Inspiration
